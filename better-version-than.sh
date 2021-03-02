@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Credits for this function: https://stackoverflow.com/a/4025065
 vercomp () {
     if [[ $1 == $2 ]]
     then
